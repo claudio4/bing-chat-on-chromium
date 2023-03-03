@@ -1,0 +1,27 @@
+{
+  "name": "Bing Chat on Chromium",
+  "description": "Use Bing Chat on any Chromium-based browser (Chrome, Brave, Vivaldi, etc.) easily. MS Edge is no longer needed to use Bing Chat.",
+  "icons": {
+    "16": "img/icon-16.png",
+    "32": "img/icon-32.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "host_permissions": [
+    "*://*.bing.com/*"
+  ],
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "set-edge-ua",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  }
+}

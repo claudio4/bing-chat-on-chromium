@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        {
+          "header": "Sec-Ch-Ua",
+          "operation": "set",
+          "value": "\"Chromium\";v=\"110\", \"Not A(Brand\";v=\"24\", \"Microsoft Edge\";v=\"110\""
+        },
+        {
+          "header": "Sec-Ch-Ua-Platform",
+          "operation": "set",
+          "value": "Windows"
+        },
+        {
+          "header": "Sec-Ch-Ua-Mobile",
+          "operation": "set",
+          "value": "?0"
+        },
+        {
+          "header": "User-Agent",
+          "operation": "set",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        },
+        {
+          "header": "x-edge-shopping-flag",
+          "operation": "set",
+          "value": "0"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "webbundle",
+        "websocket",
+        "webtransport",
+        "xmlhttprequest",
+        "other"
+      ]
+    }
+  }
+]
