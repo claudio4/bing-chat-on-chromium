@@ -1,4 +1,6 @@
 # Bing Chat on Chromium
+[![Available on the Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/bing-chat-on-chromium/oankfoonhlnlabhlgoglghmpcjndcobc)
+
 Bing Chat on Chromium is a Chrome extension that allows you to use Bing chat in any Chromium-based browser, such as Google Chrome, Brave, Vivaldi, and others. With this extension, you can access Bing Chat on your preferred browser without having to switch to Microsoft Edge.
 
 ## Why Use Bing Chat on Chromium? 🤔💡
@@ -13,7 +15,7 @@ Microsoft has imposed an artificial dependency on Edge for Bing Chat, meaning th
 
 ## Installation 💻
 ### Via the Chrome Web Store 🛍️
-1. Go to the [Bing Chat on Chromium extension page](link to the Chrome Web Store page).
+1. Go to the [Bing Chat on Chromium extension page](https://chrome.google.com/webstore/detail/bing-chat-on-chromium/oankfoonhlnlabhlgoglghmpcjndcobc).
 2. Click on the "Add to Chrome" button.
 3. Accept the permissions on the pop-up.
 4. Enjoy.
