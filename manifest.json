@@ -7,7 +7,7 @@
     "48": "img/icon-48.png",
     "128": "img/icon-128.png"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "host_permissions": [
     "*://*.bing.com/*"
